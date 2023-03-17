@@ -4,7 +4,7 @@ import SearchIcon from "./search.svg";
 import { useState, useEffect } from "react";
 import MovieCard from "./MovieCard";
 
-const API_URL = "http://www.omdbapi.com?apikey=1973dbb0";
+const API_URL = "https://www.omdbapi.com?apikey=1973dbb0";
 const movie1 = {
   Poster:
     "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
